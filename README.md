@@ -48,22 +48,6 @@ The famous **Snake game** implemented on a **16×2 LCD display**.
 
 ---
 
-## 📂 **Software & Team Contributions**  
-### **🔹 Code Implementation**  
-- **Memory Game** → Developed by Adil Mert ERGÖRÜN  
-- **Snake Game** → Developed by Mehmet Emin BAYTEKİN  
-- **Buzzer Effects** → Developed by Yusuf DİNÇ & Ömer Faruk SEMİH  
-- **Game Logic & Debugging** → Assisted by Ahmet Sadık BOZOĞLU  
-
-### **🔹 Hardware & Design**  
-- **Circuit Soldering & Assembly** → Ahmet ACIKÖK & Kemal Ege NERGİZ  
-- **LCD Display Integration** → Coordinated by the **LCD Team**  
-
-### **🔹 Documentation & Presentation**  
-- **Project Report & Slides** → Led by Muhammet Taha AYDOĞDU & Semih SARIKOCA  
-
----
-
 ## 🛠 **How the Code Works?**  
 - **Memory Game:**  
   - Generates a **random LED sequence**.  
